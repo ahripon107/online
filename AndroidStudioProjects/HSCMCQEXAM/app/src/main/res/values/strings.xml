@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HSC AND ADMISSION HELPLINE</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="username_textview">Username:</string>
+    <string name="password_textview">Password:</string>
+    <string name="submit">Submit</string>
+
+    <!-- string ids for home.xml -->
+    <string name="post_comment">Post Comment</string>
+    <string name="read_comments_title">Recent Comments</string>
+    <string name="read_posts_title">Recent Posts</string>
+    <string name="passwords_not_same">Passwords don\'t match</string>
+</resources>

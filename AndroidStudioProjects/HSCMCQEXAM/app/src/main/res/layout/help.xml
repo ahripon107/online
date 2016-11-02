@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="25.0dip" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/help"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15.0dip"
+                android:text="Three model questions are given free for a trial performence. Also you can buy model tests.\n\nYou&apos;ve to finish the test within the given time. For each questions you&apos;ll get 30 seconds. Total number of questions will be given.\n\nEach correct answer will give you +1 mark and wrong answer will give you -0.5 mark. Final mark will be given in percentage.\n\nCategorized question gives you category based questions."
+                android:textColor="#000000"
+                android:textSize="18.0sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</ScrollView>
